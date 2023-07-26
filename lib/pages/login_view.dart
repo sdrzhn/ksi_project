@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ksi/pages/item_page.dart';
+import 'package:ksi/pages/items_page.dart';
 import 'package:ksi/theme.dart';
 import '../events/login_event.dart';
 import '../state/login_state.dart';
